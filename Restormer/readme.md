@@ -1,6 +1,6 @@
 # Restormer Model ONNX Export
 Clone desired Github Repo. 
-> `git clone https://github.com/swz30/Restormer.git`
+> `git clone https://github.com/swz30/Restormer.git` \
 > `cd Restormer`
 
 Paste the `restormer_export.py` file in the root of the above repo directory i.e. your-desired-path/Restormer.
@@ -18,6 +18,6 @@ Paste the `restormer_export.py` file in the root of the above repo directory i.e
 - [Denoising](https://drive.google.com/drive/folders/1Qwsjyny54RZWa7zC4Apg7exixLBo4uF0)
 
 3. Run the export using below command
-> `python restormer_export.py --task Single_Image_Defocus_Deblurring --input_dir './demo/degraded/portrait.jpg' --result_dir './demo/restored/'`
+    > `python restormer_export.py --task Single_Image_Defocus_Deblurring --input_dir './demo/degraded/portrait.jpg' --result_dir './demo/restored/'`
 
 Additional info -

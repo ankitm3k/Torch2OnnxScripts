@@ -1,6 +1,6 @@
 # TransformerXL Model ONNX Export
 Clone desired Github Repo. 
-> `git clone https://github.com/mozilla/TTS.git`
+> `git clone https://github.com/mozilla/TTS.git` \
 > `cd TTS`
 
 Paste the `tts_export.py` file in the root of the above repo directory i.e. <your-desired-path>/TTS/.

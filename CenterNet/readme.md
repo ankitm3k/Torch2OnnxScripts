@@ -1,7 +1,7 @@
 # CenterNet Model ONNX Export
 
 Clone desired Github Repo. 
-> `git clone https://github.com/xingyizhou/CenterNet.git`
+> `git clone https://github.com/xingyizhou/CenterNet.git` \
 > `cd CenterNet`
 
 Paste the `centernet_export.py` file in the root of the above repo directory i.e. <your-desired-path>/CenterNet/.

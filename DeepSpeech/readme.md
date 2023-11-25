@@ -1,6 +1,6 @@
 # DeepSpeech Model ONNX Export
 Clone desired Github Repo. 
-> `git clone https://github.com/SeanNaren/deepspeech.pytorch.git`
+> `git clone https://github.com/SeanNaren/deepspeech.pytorch.git` \
 > `cd deepspeech.pytorch`
 
 Paste the `deepspeech_export.py` file in the root of the above repo directory i.e. your-desired-path/deepspeech.pytorch.

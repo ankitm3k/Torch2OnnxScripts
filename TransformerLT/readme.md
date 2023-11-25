@@ -1,6 +1,6 @@
 # Fairseq Model ONNX Export
 Clone desired Github Repo. 
-> `git clone https://github.com/facebookresearch/fairseq.git`
+> `git clone https://github.com/facebookresearch/fairseq.git` \
 
 > `cd fairseq`
 
